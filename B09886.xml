@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robbery rewarded, or, An account of five notorious high-way-men's exploits: viz. James Slauter, John White, John VVilliams, alias, Matchet, Francis Jackson, VValter Parkhurst.  The manner their taking on the 17th of March last past, one of their company, viz. James Slauter being ... tune is, Packington's pound.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09886</idno><idno type="EEBO-CITATION">64551688</idno>
+  <idno type="VID">184768</idno>
+  <idno type="EEBO-PROQUEST">2248530796</idno>
+  
+            <idno type="STC">Wing R1570B</idno>
+            <idno type="STC">ESTC R182744</idno>
+            <idno type="OCLC">64551688</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184768)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Robbery rewarded, or, An account of five notorious high-way-men's exploits: viz. James Slauter, John White, John VVilliams, alias, Matchet, Francis Jackson, VValter Parkhurst.  The manner their taking on the 17th of March last past, one of their company, viz. James Slauter being ... tune is, Packington's pound.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby in VVest-smith-field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadsides has faded print.</note>
+                  <note>Verses in black letter, chorus in Roman.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184768:1"/>
+            <pb facs="tcp:184768:2"/>
+            <head>Robbery Rewarded, <hi>OR,</hi> An Account of Five Notorious High-way-men's Exploits: Viz, JAMES SLAUTER, JOHN WHITE, JOHN VVILLIAMS, alias, MATCHET, FRANCIS JACKSON, VVALTER P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>RKHURST.</head>
+            <argument>
+               <p>The manner of their taking on the 17th. of March last past, one of their Company, Viz. James Slauter being since dead <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Newgate, the tryal of the other four at the old Baly the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0th. and 11th. of April, they were found Guilty o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fifteen several Indictments for Robery and Murther, the persons Kill'd by them, were one Edward Kemp of Henden, and Henry Miller of Hamstead for which facts three of them were sentenced to be hang'd at the comon place of Execution, &amp; Iackson to be G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bited at Hamp<g ref="char:EOLhyphen"/>sted.</p>
+            </argument>
+            <opener>Tune is, packington's-pound.</opener>
+            <p>
+               <figure/>
+               <figure/>
+               <figure/>
+            </p>
+            <lg>
+               <l>ADieu vain delights, and bewitch us no more,</l>
+               <l>Our former ill courses we now do deplore;</l>
+               <l>Our Crimes upon Earth h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th bereav'd us of hope,</l>
+               <l>The thread of our lives is spun out in a Rope:</l>
+               <l>We Rob'd Night and Day,</l>
+               <l>Vpon the High-way,</l>
+               <l>And spent it on Wine, and en wenches &amp; play,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But to this sweet meat sowre sauce must be had,</hi>
+                  </l>
+                  <l>
+                     <hi>For the Gallows is still the reward of the Padd.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Neer <hi>Colebrook</hi> &amp; <hi>Windsor</hi> our seene we did lay,</l>
+               <l>Each purse that came there Contribution must pay</l>
+               <l>we scorn'd to compound with the great or the smal.</l>
+               <l>For the game y<seg rend="sup">t</seg> we play'd at, was nam<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d have-at-al</l>
+               <l>With Pistol in hand,</l>
+               <l>We made them to stand,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But with this sweet meat sowre sauce must be had,</hi>
+                  </l>
+                  <l>
+                     <hi>For the Halter attends all the Kts. of the padd.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>We made our selves valiant with full flowing flagons,</l>
+               <l>To Examin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Portmantues, and ransack the waggons,</l>
+               <l>VVho travel'd in Coaches, if we came in sight,</l>
+               <l>They presently hid all their moneys good-night.</l>
+               <l>But alas all in vain,</l>
+               <l>For now we are ta'ne,</l>
+               <l>And must finish our lives in sorrow and pain,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Destruction still treads on the heels of the bad,</hi>
+                  </l>
+                  <l>
+                     <hi>And a Halter attends all the Knights of the padd.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Each sort, and Sex must submit to our Doom,</l>
+               <l>The Gallants were Hector'd the Ladys o're come.</l>
+               <l>VVhose fine tempting Iewels we soon made a prize,</l>
+               <l>Though never so guarded with languishing eyes,</l>
+               <l>Rich Cloaths and good L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce,</l>
+               <l>We made them uncase,</l>
+               <l>And left them behind to complain on the p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but with such sweet meat sowre sauce must be had,</hi>
+                  </l>
+                  <l>
+                     <hi>For the Gallows is still the reward of the padd.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The renowned <hi>Du Vall</hi> with his Kt. arrant fame,</l>
+               <l>Hence forward shall yield to our gallanter name;</l>
+               <l>He jilted the people with tricks and with words,</l>
+               <l>VVe made them submit to the charms of our swords.</l>
+               <l>Yet alass to our shame,</l>
+               <l>Our ends prove the same,</l>
+               <lg type="refrain">
+                  <l>The Hangman and <hi>Tyburn</hi> our merits proclaim.</l>
+                  <l>
+                     <hi>D<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>struction still treads on the heels of the bad, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Our work we so ply'd, that in very few days,</l>
+               <l>VVe resolv'd a good round sum of money to raise,</l>
+               <l>VVhi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h being obtained a plot we design'd,</l>
+               <l>To trip or<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Ocean, where none should us find,</l>
+               <l>But alas <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur hard fate,</l>
+               <l>Has quite alter'd our state,</l>
+               <l>VVe find by sad proof now although 'tis too late,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>That to ou<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> sweet meat sowre sauce must be had,</hi>
+                  </l>
+                  <l>
+                     <hi>For the Halter attends all the Knights of the padd.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Country Alarum'd with what we had done,</l>
+               <l>They <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in each man that could handle a Gun,</l>
+               <l>VVith sw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ds, &amp; with Flayls, &amp; with Halberts al rusty</l>
+               <l>VVith dead-<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piers and Cudgels were trusty,</l>
+               <l>In Van, Flanck, and Reer,</l>
+               <l>They round us appear,</l>
+               <l>VVhich yet could not cause our hold Spirits to fear</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Destruction thus, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A couragious retreat we resolved for to make,</l>
+               <l>For well we perceiv'd that our lives lay at stake,</l>
+               <l>And thence we conblude it a nobler thing,</l>
+               <l>To fall by the Sword then to peep through a string.</l>
+               <l>VVe fought all the way,</l>
+               <l>To <hi>Hampstead</hi> that day.</l>
+               <l>And often shifted Horses to make the less stay,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but still 'tis in vain, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Two poor men we slew whose deplorable sake,</l>
+               <l>VVith grief fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls our souls, &amp; it makes our hearts ake,</l>
+               <l>VVith sighs &amp; wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h te<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs we beg mercy of Heaven,</l>
+               <l>Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Crime and all others may quite be forgiven.</l>
+               <l>VVhich if we procure,</l>
+               <l>VVe will gladly endure,</l>
+               <l>Our punishment h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, and esteem them a Cure:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Though vile we have been,</hi> &amp; <hi>most shameful our story</hi>
+                  </l>
+                  <l>
+                     <hi>True repentance may waft from the Gibit to glory.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Though long we resisted yet wounded full sore,</l>
+               <l>At l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st we grew faint and could hold out no more,</l>
+               <l>But str<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ightly confined to <hi>Newgate</hi> we came,</l>
+               <l>VVhere one by his death was released from shame.</l>
+               <l>The rest on fair Tryal,</l>
+               <l>Beyond all denyal,</l>
+               <l>VVere clearly convicted &amp; now they must die all.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Thus to our sweet meat, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Thus may our Eample to all be a warning,</l>
+               <l>And serve for each young-mans instruction &amp; learning;</l>
+               <l>Be honest &amp; Iust, &amp; not wast time and leisure,</l>
+               <l>In Ryot, Deb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uchness, and wantoning pleasure:</l>
+               <l>For see what sad gains,</l>
+               <l>Ore of us obtains,</l>
+               <l>His body it must be consumed in Chains.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Destruction still treads on the heels, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for P. Brook by in VVest-smith-field.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
